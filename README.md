@@ -24,6 +24,13 @@ In this exercise, you will:
 1. Work with branches to experiment safely.
 1. Learn about Git collaboration concepts.
 
+### Microsoft Learn training
+
+Continue learning with these free, self-paced Microsoft Learn resources:
+
+- [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) covers version control, Git basics, and branches.
+- [Training for GitHub](https://learn.microsoft.com/en-us/training/github/) offers additional GitHub modules and learning paths.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
